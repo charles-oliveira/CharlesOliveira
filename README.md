@@ -9,7 +9,7 @@
 📫 How to reach me:
 
 🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
 
 [twitter]: https://twitter.com/ch4rle2
 [linkedin]: www.linkedin.com/in/ch-oliveira
