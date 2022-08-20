@@ -12,4 +12,4 @@
 👔 [linkedin][linkedin] **|** 
 
 [twitter]: https://twitter.com/ch4rle2
-[linkedin]: www.linkedin.com/in/ch-oliveira
+[linkedin]: https://www.linkedin.com/in/charles-oliveira-a5aa49207/
