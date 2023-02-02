@@ -5,8 +5,7 @@
 - 🧰 I’m currently working on my first personal Website!
 - 🌱 I’m currently learning React & Git/GitHub.
 - 👨🏻‍🌾 Pronouns: He/Him
-- ⚡ Fun fact: I love poke 🌮 & 🍚
-
+- ⚡ Fun fact: I'm learning to climb 🧗🏼
 📫 How to reach me:
 
 🐦 [twitter][twitter] **|** 
