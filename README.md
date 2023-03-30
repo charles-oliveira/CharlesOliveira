@@ -3,7 +3,7 @@
 # I'm a Developer & hiker!
 
 - 🧰 I’m currently working on my first personal Website!
-- 🌱 I’m currently learning React & Git/GitHub.
+- 🌱 I’m currently learning React.
 - 👨🏻‍🌾 Pronouns: He/Him
 - ⚡ Fun fact: I'm learning to climb 🧗🏼
 
